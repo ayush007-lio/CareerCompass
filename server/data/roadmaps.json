@@ -1,0 +1,500 @@
+{
+  "Frontend Developer": {
+    "title": "Frontend Developer",
+    "description": "Build beautiful, interactive user interfaces and web experiences",
+    "estimatedDuration": "6-12 months",
+    "stages": [
+      {
+        "stage": 1,
+        "title": "Foundations",
+        "duration": "1-2 months",
+        "description": "Master the fundamentals of web development",
+        "skills": [
+          "HTML5 & Semantic Markup",
+          "CSS3 & Responsive Design",
+          "JavaScript ES6+",
+          "DOM Manipulation"
+        ],
+        "tools": ["VS Code", "Chrome DevTools", "Git & GitHub"],
+        "learningSteps": [
+          "Learn HTML5 semantic elements and accessibility",
+          "Master CSS Grid, Flexbox, and Media Queries",
+          "Study JavaScript fundamentals and async programming",
+          "Build 3-5 static websites from scratch"
+        ]
+      },
+      {
+        "stage": 2,
+        "title": "React.js",
+        "duration": "2-3 months",
+        "description": "Learn modern React for building interactive UIs",
+        "skills": [
+          "React Components & JSX",
+          "Hooks & State Management",
+          "Props & Component Composition",
+          "React Router"
+        ],
+        "tools": ["React", "npm/yarn", "Webpack", "Babel"],
+        "learningSteps": [
+          "Understand React fundamentals and component lifecycle",
+          "Master React Hooks (useState, useEffect, useContext)",
+          "Learn component composition and reusability",
+          "Build 5+ practical React applications"
+        ]
+      },
+      {
+        "stage": 3,
+        "title": "Advanced Concepts",
+        "duration": "2-3 months",
+        "description": "Master advanced patterns and tools",
+        "skills": [
+          "State Management (Redux/Context)",
+          "API Integration & HTTP",
+          "Performance Optimization",
+          "Testing (Jest, React Testing Library)"
+        ],
+        "tools": ["Redux", "Axios", "Webpack", "Jest"],
+        "learningSteps": [
+          "Learn state management patterns",
+          "Master API calls and error handling",
+          "Implement unit and integration tests",
+          "Optimize performance and bundle size"
+        ]
+      },
+      {
+        "stage": 4,
+        "title": "Professional Skills",
+        "duration": "2-3 months",
+        "description": "Build production-ready applications",
+        "skills": [
+          "Responsive Design Mastery",
+          "Web Security & Best Practices",
+          "Build Tools & DevOps",
+          "Collaboration & Code Review"
+        ],
+        "tools": ["Docker", "CI/CD", "Figma", "Storybook"],
+        "learningSteps": [
+          "Master responsive design principles",
+          "Learn web security and common vulnerabilities",
+          "Set up CI/CD pipelines",
+          "Build a portfolio with 3-5 polished projects"
+        ]
+      }
+    ]
+  },
+  "Backend Developer": {
+    "title": "Backend Developer",
+    "description": "Build scalable server-side applications and APIs",
+    "estimatedDuration": "8-14 months",
+    "stages": [
+      {
+        "stage": 1,
+        "title": "Programming Fundamentals",
+        "duration": "1-2 months",
+        "description": "Master core programming concepts",
+        "skills": [
+          "Programming Logic",
+          "Data Structures",
+          "Algorithms",
+          "Object-Oriented Programming"
+        ],
+        "tools": ["Python or Node.js", "VS Code"],
+        "learningSteps": [
+          "Learn variables, loops, and conditionals",
+          "Understand arrays, objects, and linked lists",
+          "Study sorting and searching algorithms",
+          "Practice 20+ coding problems"
+        ]
+      },
+      {
+        "stage": 2,
+        "title": "Web Server & APIs",
+        "duration": "2-3 months",
+        "description": "Build RESTful APIs and web servers",
+        "skills": [
+          "HTTP & RESTful Principles",
+          "Express.js/Flask",
+          "Request/Response Handling",
+          "API Design Patterns"
+        ],
+        "tools": ["Express.js or Flask", "Postman", "npm/pip"],
+        "learningSteps": [
+          "Understand HTTP methods and status codes",
+          "Build your first REST API",
+          "Learn routing and middleware",
+          "Create 5+ functional APIs"
+        ]
+      },
+      {
+        "stage": 3,
+        "title": "Database Design",
+        "duration": "2-3 months",
+        "description": "Master database concepts and SQL",
+        "skills": [
+          "SQL & Relational Databases",
+          "Database Design & Normalization",
+          "Indexing & Query Optimization",
+          "NoSQL Databases"
+        ],
+        "tools": ["PostgreSQL", "MongoDB", "pgAdmin"],
+        "learningSteps": [
+          "Learn SQL syntax and complex queries",
+          "Design efficient database schemas",
+          "Understand normalization and relationships",
+          "Work with both SQL and NoSQL databases"
+        ]
+      },
+      {
+        "stage": 4,
+        "title": "Advanced Backend Skills",
+        "duration": "3-4 months",
+        "description": "Build production-ready systems",
+        "skills": [
+          "Authentication & Authorization",
+          "Caching & Performance",
+          "Message Queues & Async Tasks",
+          "Deployment & DevOps"
+        ],
+        "tools": ["Redis", "JWT", "Docker", "AWS"],
+        "learningSteps": [
+          "Implement authentication and security",
+          "Set up caching strategies",
+          "Learn async processing and queues",
+          "Deploy applications to production"
+        ]
+      }
+    ]
+  },
+  "Data Scientist": {
+    "title": "Data Scientist",
+    "description": "Extract insights from data and build predictive models",
+    "estimatedDuration": "10-16 months",
+    "stages": [
+      {
+        "stage": 1,
+        "title": "Math & Statistics Foundations",
+        "duration": "2-3 months",
+        "description": "Build strong mathematical foundations",
+        "skills": [
+          "Linear Algebra",
+          "Probability & Statistics",
+          "Calculus Basics",
+          "Statistical Testing"
+        ],
+        "tools": ["Python", "Jupyter Notebook"],
+        "learningSteps": [
+          "Master linear algebra concepts",
+          "Learn probability distributions",
+          "Understand hypothesis testing",
+          "Practice statistical analysis"
+        ]
+      },
+      {
+        "stage": 2,
+        "title": "Python & Data Manipulation",
+        "duration": "2-3 months",
+        "description": "Learn Python and data wrangling",
+        "skills": [
+          "Python Programming",
+          "Pandas & NumPy",
+          "Data Cleaning & Transformation",
+          "Exploratory Data Analysis"
+        ],
+        "tools": ["Python", "Pandas", "NumPy", "Matplotlib"],
+        "learningSteps": [
+          "Master Python fundamentals",
+          "Learn data manipulation with Pandas",
+          "Practice EDA techniques",
+          "Work with real datasets"
+        ]
+      },
+      {
+        "stage": 3,
+        "title": "Machine Learning",
+        "duration": "3-4 months",
+        "description": "Build and train ML models",
+        "skills": [
+          "Supervised Learning",
+          "Unsupervised Learning",
+          "Feature Engineering",
+          "Model Evaluation & Validation"
+        ],
+        "tools": ["Scikit-learn", "TensorFlow", "Keras"],
+        "learningSteps": [
+          "Learn regression and classification",
+          "Master clustering algorithms",
+          "Understand feature engineering",
+          "Build 5+ ML models"
+        ]
+      },
+      {
+        "stage": 4,
+        "title": "Advanced Topics & Deployment",
+        "duration": "3-4 months",
+        "description": "Advanced techniques and production systems",
+        "skills": [
+          "Deep Learning & Neural Networks",
+          "NLP & Computer Vision",
+          "Model Deployment",
+          "Big Data Technologies"
+        ],
+        "tools": ["PyTorch", "TensorFlow", "Docker", "Apache Spark"],
+        "learningSteps": [
+          "Explore deep learning applications",
+          "Learn NLP fundamentals",
+          "Deploy models to production",
+          "Work with large-scale datasets"
+        ]
+      }
+    ]
+  },
+  "DevOps Engineer": {
+    "title": "DevOps Engineer",
+    "description": "Automate infrastructure and deployment pipelines",
+    "estimatedDuration": "9-15 months",
+    "stages": [
+      {
+        "stage": 1,
+        "title": "Linux & Networking Fundamentals",
+        "duration": "2-3 months",
+        "description": "Master Linux and network basics",
+        "skills": [
+          "Linux Commands & Shell Scripting",
+          "Network Fundamentals",
+          "System Administration",
+          "User & Permission Management"
+        ],
+        "tools": ["Linux", "Bash", "SSH"],
+        "learningSteps": [
+          "Learn Linux file system and commands",
+          "Master bash scripting",
+          "Understand networking basics",
+          "Set up and manage Linux servers"
+        ]
+      },
+      {
+        "stage": 2,
+        "title": "Containerization & Orchestration",
+        "duration": "2-3 months",
+        "description": "Learn Docker and Kubernetes",
+        "skills": [
+          "Docker & Containerization",
+          "Kubernetes Orchestration",
+          "Container Registries",
+          "Microservices Architecture"
+        ],
+        "tools": ["Docker", "Kubernetes", "Docker Compose"],
+        "learningSteps": [
+          "Master Docker fundamentals",
+          "Build and optimize Dockerfiles",
+          "Learn Kubernetes basics",
+          "Deploy containerized applications"
+        ]
+      },
+      {
+        "stage": 3,
+        "title": "CI/CD & Version Control",
+        "duration": "2-3 months",
+        "description": "Automate build and deployment",
+        "skills": [
+          "Git & Version Control",
+          "CI/CD Pipelines",
+          "Infrastructure as Code",
+          "Automated Testing"
+        ],
+        "tools": ["Git", "Jenkins", "GitLab CI", "Terraform"],
+        "learningSteps": [
+          "Master Git workflows",
+          "Build CI/CD pipelines",
+          "Learn Infrastructure as Code",
+          "Automate deployment processes"
+        ]
+      },
+      {
+        "stage": 4,
+        "title": "Cloud & Monitoring",
+        "duration": "3-4 months",
+        "description": "Master cloud platforms and monitoring",
+        "skills": [
+          "Cloud Platforms (AWS/GCP/Azure)",
+          "Monitoring & Logging",
+          "Performance Optimization",
+          "Disaster Recovery & Security"
+        ],
+        "tools": ["AWS", "Prometheus", "ELK Stack", "Grafana"],
+        "learningSteps": [
+          "Learn cloud platform fundamentals",
+          "Set up monitoring and alerts",
+          "Implement logging solutions",
+          "Design disaster recovery plans"
+        ]
+      }
+    ]
+  },
+  "Full Stack Developer": {
+    "title": "Full Stack Developer",
+    "description": "Build complete web applications from frontend to backend",
+    "estimatedDuration": "12-18 months",
+    "stages": [
+      {
+        "stage": 1,
+        "title": "Frontend Fundamentals",
+        "duration": "2-3 months",
+        "description": "Master frontend technologies",
+        "skills": [
+          "HTML5, CSS3, JavaScript",
+          "Responsive Design",
+          "React.js or Vue.js",
+          "State Management"
+        ],
+        "tools": ["React", "Tailwind CSS", "npm"],
+        "learningSteps": [
+          "Learn HTML, CSS, and JavaScript thoroughly",
+          "Master a frontend framework",
+          "Build responsive web pages",
+          "Create interactive components"
+        ]
+      },
+      {
+        "stage": 2,
+        "title": "Backend Fundamentals",
+        "duration": "2-3 months",
+        "description": "Master backend technologies",
+        "skills": [
+          "Server-Side Programming",
+          "REST APIs",
+          "Database Design",
+          "Authentication"
+        ],
+        "tools": ["Express.js", "PostgreSQL", "Node.js"],
+        "learningSteps": [
+          "Learn backend framework basics",
+          "Build RESTful APIs",
+          "Design databases",
+          "Implement user authentication"
+        ]
+      },
+      {
+        "stage": 3,
+        "title": "Integration & Advanced Concepts",
+        "duration": "3-4 months",
+        "description": "Connect frontend and backend",
+        "skills": [
+          "Frontend-Backend Integration",
+          "Advanced State Management",
+          "Performance Optimization",
+          "Testing Strategies"
+        ],
+        "tools": ["Jest", "React Testing", "Docker"],
+        "learningSteps": [
+          "Integrate frontend with backend",
+          "Implement error handling",
+          "Optimize performance",
+          "Write comprehensive tests"
+        ]
+      },
+      {
+        "stage": 4,
+        "title": "Production & Deployment",
+        "duration": "3-4 months",
+        "description": "Deploy and maintain applications",
+        "skills": [
+          "Deployment Strategies",
+          "DevOps Basics",
+          "Monitoring & Logging",
+          "Security Best Practices"
+        ],
+        "tools": ["Docker", "CI/CD", "Cloud Platforms", "Monitoring Tools"],
+        "learningSteps": [
+          "Learn deployment processes",
+          "Set up CI/CD pipelines",
+          "Implement monitoring",
+          "Deploy full applications to production"
+        ]
+      }
+    ]
+  },
+  "Product Manager": {
+    "title": "Product Manager",
+    "description": "Lead product strategy and development",
+    "estimatedDuration": "N/A - Varies by background",
+    "stages": [
+      {
+        "stage": 1,
+        "title": "Product Fundamentals",
+        "duration": "1-2 months",
+        "description": "Understand product management basics",
+        "skills": [
+          "Product Strategy",
+          "User Research",
+          "Market Analysis",
+          "Product Roadmapping"
+        ],
+        "tools": ["Figma", "Miro", "Mixpanel"],
+        "learningSteps": [
+          "Learn product management principles",
+          "Understand user research methods",
+          "Study competitive analysis",
+          "Create your first product roadmap"
+        ]
+      },
+      {
+        "stage": 2,
+        "title": "Technical Understanding",
+        "duration": "2-3 months",
+        "description": "Develop technical literacy",
+        "skills": [
+          "Technical Basics",
+          "Software Architecture",
+          "API Understanding",
+          "Tech Stack Knowledge"
+        ],
+        "tools": ["Technical Documentation", "Architecture Diagrams"],
+        "learningSteps": [
+          "Understand software development basics",
+          "Learn architecture patterns",
+          "Understand databases and APIs",
+          "Collaborate with engineers"
+        ]
+      },
+      {
+        "stage": 3,
+        "title": "Data & Analytics",
+        "duration": "2-3 months",
+        "description": "Master data-driven decision making",
+        "skills": [
+          "Analytics & Metrics",
+          "A/B Testing",
+          "SQL & Data Queries",
+          "Data Visualization"
+        ],
+        "tools": ["Analytics Platform", "SQL", "Tableau"],
+        "learningSteps": [
+          "Learn key product metrics",
+          "Understand A/B testing",
+          "Query and analyze data",
+          "Make data-driven decisions"
+        ]
+      },
+      {
+        "stage": 4,
+        "title": "Advanced PM Skills",
+        "duration": "3+ months",
+        "description": "Master advanced product management",
+        "skills": [
+          "Cross-functional Leadership",
+          "Stakeholder Management",
+          "Negotiation & Influence",
+          "Business Strategy"
+        ],
+        "tools": ["OKRs", "Communication Tools"],
+        "learningSteps": [
+          "Develop leadership skills",
+          "Master stakeholder management",
+          "Learn business strategy",
+          "Build and launch major features"
+        ]
+      }
+    ]
+  }
+}
